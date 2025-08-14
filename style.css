@@ -17,7 +17,7 @@ img {
     display: block;
     padding-bottom: 50px;
 }
-.suya-img {
+.suya-img, .chinchin-img {
     height: 700px;
 }
 .recipe-container {
