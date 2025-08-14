@@ -1,3 +1,47 @@
+* {
+    padding-left: 10px;
+}
 h1 {
     color: red;
+    padding-top: 50px;
+    margin-bottom: 10px;
+}
+p {
+    margin-top: 10px;
+}
+img {
+    padding-top: 20px;
+    width: 1000px;
+    height: auto;
+    border-radius: 15%;
+    display: block;
+    padding-bottom: 50px;
+}
+.recipe-container {
+    display: flex; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ingredients {
+    background-color: rgb(184, 176, 166);
+    width: 400px;
+    border-radius: 10%;
+    margin-right: 60px;
+}
+.ingredients h2 {
+    text-align: center;
+}
+.ingredients ul li {
+    padding-bottom: 10px;
+}
+.steps {
+    box-sizing: border-box;
+    width: 500px;
+    background-color: #e79898;
+    border-radius: 10%;
+}
+.steps h2 {
+    text-align: center;
+}
+.steps ol li {
+    padding-bottom: 20px;
 }
