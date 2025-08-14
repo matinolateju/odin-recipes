@@ -17,6 +17,9 @@ img {
     display: block;
     padding-bottom: 50px;
 }
+.suya-img {
+    height: 700px;
+}
 .recipe-container {
     display: flex; 
     font-family: Georgia, 'Times New Roman', Times, serif;
