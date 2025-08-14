@@ -1,10 +1,17 @@
 * {
     padding-left: 10px;
 }
-h1 {
+.index-body {
+    background-color: aqua;
+}
+.recipe-header {
     color: red;
     padding-top: 50px;
     margin-bottom: 10px;
+}
+a:link {
+    font-size: 20px;
+    font-style: italic;
 }
 p {
     margin-top: 10px;
